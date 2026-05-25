@@ -1,0 +1,6 @@
+{
+  "name": "Akila Weera Portfolio",
+  "description": "Portfolio website for Akila Weera - Builder, Entrepreneur, AI & Technology Creator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
